@@ -1,5 +1,4 @@
 # about me
-my first repository
 
 Hi Michael.
 
